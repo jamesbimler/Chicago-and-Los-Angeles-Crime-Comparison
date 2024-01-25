@@ -17,8 +17,6 @@ In a quest to delve into the intricacies of public safety and law enforcement, t
 - HeatMap
 - IFrame
 
-
-
 ### Certifications
 ---
 Here is my completed Udacity NanoDegree certification.
@@ -26,4 +24,4 @@ Here is my completed Udacity NanoDegree certification.
 **Data Analyst (DAND):** <br>
 EMPLOYERS: [Click here to confirm my certificate](https://graduation.udacity.com/confirm/e/bb8e540e-903c-11ee-b349-a33b73c6103c)
 
-<img src ="[https://github.com/jamesbimler/udacity-firearms-census/blob/main/DAND%20Degree.jpg](https://github.com/jamesbimler/Chicago-and-Los-Angeles-Crime-Comparison/blob/main/DAND%20Degree.jpg)https://github.com/jamesbimler/Chicago-and-Los-Angeles-Crime-Comparison/blob/main/DAND%20Degree.jpg">
+<img src ="https://github.com/jamesbimler/udacity-firearms-census/blob/main/DAND%20Degree.jpg">
